@@ -1,5 +1,7 @@
 # 💫 About Me:
-                                               Hi, I'm Maksim<br>3rd year student of the Faculty of Applied Mathematics at NUST MISIS<br>Beginer Data Scientist and Machine Learning engineer<br>Link to my CV 
+Hi, I'm Maksim
+
+3rd year student of the Faculty of Applied Mathematics at NUST MISIS<br>Beginer Data Scientist and Machine Learning engineer<br>Link to my [CV](https://docs.google.com/document/d/1rYLPR9Ad8316_Ms3z7ouy5c9yB3l-MHYwboOkGZcORY/edit?usp=sharing)
 
 
 # 💻 Tech Stack:
