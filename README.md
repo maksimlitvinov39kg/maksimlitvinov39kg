@@ -13,3 +13,6 @@ Hi, I'm Maksim
 * [Tg bot for library](https://github.com/maksimlitvinov39kg/tgbot/tree/main)
 * [Client-Server app on Java](https://github.com/maksimlitvinov39kg/courseprog)
 
+# 👨🏼‍💻 Competitions:
+* 33/200 place on VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS)
+
