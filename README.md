@@ -9,5 +9,6 @@ Hi, I'm Maksim
 
 # 🐇 Pet projects: 
 * [Semantic segmentation](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Segmenatation)
-
+* [Images classification](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Image%20Classification)
+* []
 
