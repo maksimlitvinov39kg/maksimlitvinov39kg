@@ -11,4 +11,6 @@ Hi, I'm Maksim
 * [Semantic segmentation](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Segmenatation)
 * [Images classification](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Image%20Classification)
 * [Site scrapper](https://github.com/maksimlitvinov39kg/sber_scrapper)
+* [Tg bot for library](https://github.com/maksimlitvinov39kg/tgbot/tree/main)
+* [Client-Server app on Java](https://github.com/maksimlitvinov39kg/courseprog)
 
