@@ -18,3 +18,16 @@ Hi, I'm Maksim
 # 👨🏼‍💻 Competitions:
 * 33/200 place on VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS)
 
+# 👀 More about me:
+**Languages**
+  <br>Russian - Native
+  <br>English - C1
+  <br>
+  **Hobbies**
+  <br> 🏀 Basketball
+  <br> 💪 Gym
+  <br> 🛹 Skateboarding
+  <br>
+  **Contacts** 
+  <br> [Telegram](https://t.me/ykmaksim)
+  
