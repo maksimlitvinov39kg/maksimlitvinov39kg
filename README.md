@@ -16,7 +16,7 @@ Hi, I'm Maksim
 * [Client-Server app on Java](https://github.com/maksimlitvinov39kg/courseprog)
 
 # 👨🏼‍💻 Competitions:
-* 33/200 place on VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS)
+* Finalist of VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS) , [Certificate](https://drive.google.com/file/d/1Hp_GLbDBlZdsPxjp3KSBd_RA-Oy9bKdE/view?usp=sharing)
 
 # 👀 More about me:
 **Languages**
