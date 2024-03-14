@@ -17,7 +17,7 @@ Hi, I'm Maksim
 
 # 👨🏼‍💻 Competitions:
 * Finalist of VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS) , [Certificate](https://drive.google.com/file/d/1Hp_GLbDBlZdsPxjp3KSBd_RA-Oy9bKdE/view?usp=sharing)
-* Participant [Deel Learning School Olympiad](https://dls.samcs.ru/olympics)
+* Finalist [Deel Learning School Olympiad](https://dls.samcs.ru/olympics)
 # 👀 More about me:
 **Languages**
   <br>Russian - Native
