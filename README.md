@@ -16,9 +16,9 @@ Hi, I'm Maksim
 * [Client-Server app on Java](https://github.com/maksimlitvinov39kg/courseprog)
 
 # 👨🏼‍💻 Competitions:
+* 5/30 [IT Purple Hack](https://geekbattle.online/events/it-purple-hack) "Develop a LLM-based system answering user questions in natural language." | [Solution](https://github.com/7aaassss/it-purple)
 * Finalist of VTB MORE.TECH 5.0 Hackaton. [Solution](https://github.com/dkshi/more-tech-miSUS) , [Certificate](https://drive.google.com/file/d/1Hp_GLbDBlZdsPxjp3KSBd_RA-Oy9bKdE/view?usp=sharing)
 * Finalist [Deel Learning School Olympiad](https://dls.samcs.ru/olympics)
-* 5/30 [IT Purple Hack](https://geekbattle.online/events/it-purple-hack) "Develop a LLM-based system answering user questions in natural language." | [Solution](https://github.com/7aaassss/it-purple)
 # 👀 More about me:
 **Languages**
   <br>Russian - Native
