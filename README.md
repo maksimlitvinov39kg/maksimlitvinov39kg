@@ -2,7 +2,7 @@
 Hi, I'm Maksim
 
 3rd year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
-<br>**area of ​​interest:** GBM , NLP
+<br>**Field of ​​interest:** GBM , NLP
 <br>Link to my [English CV](https://drive.google.com/file/d/1RBzwIXrKwFY2YFvgJRjxi2QYo1xxCYMY/view?usp=sharing) 
 
 
