@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Maksim
 
-3rd year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
+4 year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
 <br>**Field of ​​interest:** CV,Graphs
 <br>Link to my [English CV](https://drive.google.com/file/d/1tEj-_rCh8oTYPDGCHXAZnzc4CJ3IcfLt/view?usp=drive_link) 
 
@@ -11,6 +11,7 @@ Hi, I'm Maksim
 # 👨🏼‍💻 Work experience:
 * DL Intern in [SBER AI](https://ai.sber.ru/) (April 2024 - Present day)
     - Graph roads
+    - VLLM'S
 
 # 🎯 Competitions:
 * 5/30 [IT Purple Hack](https://geekbattle.online/events/it-purple-hack) "Develop a LLM-based system answering user questions in natural language." | [Solution](https://github.com/7aaassss/it-purple)
