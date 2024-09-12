@@ -14,7 +14,7 @@ Hi, I'm Maksim
     - VLLM'S
 
 # 🎯 Competitions:
-* 3/108 [E-CUP by Ozon Tech](https://e-cup-ozon.ru/) "Develop an ML model that could determine whether products match in names, attributes and images" | [Solution](), [Certificate]()
+* 3/108 [E-CUP by Ozon Tech](https://e-cup-ozon.ru/) "Develop an ML model that could determine whether products match in names, attributes and images" | [Solution]() | [Certificate]()
 * 5/30 [IT Purple Hack](https://geekbattle.online/events/it-purple-hack) "Develop a LLM-based system answering user questions in natural language." | [Solution](https://github.com/7aaassss/it-purple)
 * Finalist of [Gagrin Hackaton](https://gagarinhack.ru/) “Sentiment analysis of Telegram financial messages.” | [Solution](https://github.com/maksimlitvinov39kg/MMM_gagarin_hack)
 * Finalist of [Tender Hack Moscow](https://tenderhack.ru/msk) "CTE characteristics generation." | [Solution](https://github.com/Kin1599/TenderHack__MISIS-Ginseng-Strip/tree/master/ml-notebooks)
