@@ -13,7 +13,7 @@ Hi, I'm Maksim
     - AI assistant, multi-agent system (LangChain, LangGraph) 
 
 # 🎯 Competitions:
-* 🥈 1/13 [FIC Hackaton](https://фиц2024.рф/hackathon) "Develop an ML model Model evaluates candidate expertise from resumes and external company data. Includes parsers and a full-fledged web service." | [Solution](https://github.com/l1ghtsource/fic-sense-case) | [Certificate](https://drive.google.com/file/d/1D4B6lzVldBT2BrphfkVTqIe98vr6uOfI/view?usp=sharing)
+* 🥇 1/13 [FIC Hackaton](https://фиц2024.рф/hackathon) "Develop an ML model Model evaluates candidate expertise from resumes and external company data. Includes parsers and a full-fledged web service." | [Solution](https://github.com/l1ghtsource/fic-sense-case) | [Certificate](https://drive.google.com/file/d/1D4B6lzVldBT2BrphfkVTqIe98vr6uOfI/view?usp=sharing)
 * 🥈 2/108 [E-CUP by Ozon Tech](https://e-cup-ozon.ru/) "Develop an ML model that could determine whether products match in names, attributes and images" | [Solution](https://github.com/maksimlitvinov39kg/ozon-ecup-matching) | [Certificate](https://drive.google.com/file/d/1tO8Aw3RvOYCC42V01v3Gizjgxg4chmAM/view?usp=sharing)
 * 5/30 [IT Purple Hack](https://geekbattle.online/events/it-purple-hack) "Develop a LLM-based system answering user questions in natural language." | [Solution](https://github.com/7aaassss/it-purple)
 * Finalist of [Gagrin Hackaton](https://gagarinhack.ru/) “Sentiment analysis of Telegram financial messages.” | [Solution](https://github.com/maksimlitvinov39kg/MMM_gagarin_hack)
