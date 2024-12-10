@@ -30,11 +30,6 @@ Hi, I'm Maksim
   <br>Russian - Native
   <br>English - C1
   <br>
-  **Hobbies**
-  <br> 🏀 Basketball
-  <br> 💪 Gym
-  <br> 🛹 Skateboarding
-  <br>
   **Contacts** 
   <br> [Telegram](https://t.me/ykmaksim)
   
