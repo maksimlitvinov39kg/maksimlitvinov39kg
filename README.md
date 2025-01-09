@@ -2,8 +2,8 @@
 Hi, I'm Maksim
 
 4 year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
-<br>**Field of ​​interest:** CV,Graphs
-<br>Link to my [English CV](https://drive.google.com/file/d/1mOzXNkEj2zoo7QVDjNJZ2P9Kn9RPta4V/view) 
+<br>**Field of ​​interest:** CV,Graphs, VLLM's
+<br>Link to my [English CV](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto) 
 
 # 👨🏼‍💻 Work experience:
 * DL Researcher in [SBER AI](https://ai.sber.ru/) (April 2024 - November 2024)
