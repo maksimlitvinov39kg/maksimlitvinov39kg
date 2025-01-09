@@ -9,7 +9,7 @@ Hi, I'm Maksim
 * DL Researcher in [SBER AI](https://ai.sber.ru/) (April 2024 - November 2024)
     - Graph roads (DETR, Mask2Former)
     - VLLM'S (LLaVA, RS-LLaVA, PLLaVA)
-* DL Engeneer in [SBER](https://www.sberbank.ru/ru) (November 2024 - Present day)
+* DL Engineer in [SBER](https://www.sberbank.ru/ru) (November 2024 - Present day)
     - AI assistant, multi-agent system (LangChain, LangGraph) 
 
 # 🎯 Competitions:
