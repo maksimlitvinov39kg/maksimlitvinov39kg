@@ -22,6 +22,8 @@ Hi, I'm Maksim
 * Finalist of [Deel Learning School Olympiad](https://dls.samcs.ru/olympics)
   
 # 🐇 Pet projects: 
+* [Russian Sign Language Recognition](https://github.com/maksimlitvinov39kg/SLR_SLOVO)
+* [BI Diagramm generation via text/visual prompt](https://github.com/maksimlitvinov39kg/diagraimond)
 * [Semantic segmentation](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Segmenatation)
 * [Images classification](https://github.com/maksimlitvinov39kg/DS-ML-Projects/tree/main/Image%20Classification)
 
