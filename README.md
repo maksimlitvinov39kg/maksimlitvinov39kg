@@ -2,7 +2,7 @@
 Hi, I'm Maksim
 
 4 year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
-<br>**Field of ​​interest:** CV,Graphs, VLLM's
+<br>**Field of ​​interest:** CV,Sign Language Recognition, VLLM's
 <br>Link to my [English CV](https://drive.google.com/file/d/133ShKidbS8_qscExWartOH5AgE-54bMZ/view?usp=sharing) 
 
 # 👨🏼‍💻 Work experience:
