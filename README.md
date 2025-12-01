@@ -1,16 +1,18 @@
 # 💫 About Me:
 Hi, I'm Maksim
 
-4 year student of the Faculty of Applied Mathematics at NUST MISIS<br> Data Scientist and Machine Learning engineer
+First-year master's student at [ITMO AI Talent Hub](https://ai.itmo.ru/). Data Scientist and Machine Learning engineer
 <br>**Field of ​​interest:** CV,Sign Language Recognition, VLLM's
 <br>Link to my [English CV](https://drive.google.com/file/d/133ShKidbS8_qscExWartOH5AgE-54bMZ/view?usp=sharing) 
 
 # 👨🏼‍💻 Work experience:
+* DL Engineer in [Kandinksy Lab](https://kandinskylab.ai/) (November 2025 - Present)
+    - VLM captioning
+* DL Engineer in [SBER](https://www.sberbank.ru/ru) (November 2024 - November 2025)
+    - AI assistant, multi-agent system (LangChain, LangGraph)
 * DL Researcher in [SBER AI](https://ai.sber.ru/) (April 2024 - November 2024)
     - Graph roads (DETR, Mask2Former)
     - VLLM'S (LLaVA, RS-LLaVA, PLLaVA)
-* DL Engineer in [SBER](https://www.sberbank.ru/ru) (November 2024 - Present day)
-    - AI assistant, multi-agent system (LangChain, LangGraph) 
 
 # 🎯 Competitions:
 * 🥇 1/13 [FIC Hackaton](https://фиц2024.рф/hackathon) "Develop an ML model Model evaluates candidate expertise from resumes and external company data. Includes parsers and a full-fledged web service." | [Solution](https://github.com/l1ghtsource/fic-sense-case) | [Certificate](https://drive.google.com/file/d/1D4B6lzVldBT2BrphfkVTqIe98vr6uOfI/view?usp=sharing)
