@@ -7,7 +7,7 @@ First-year master's student at [ITMO AI Talent Hub](https://ai.itmo.ru/). Data S
 
 # 👨🏼‍💻 Work experience:
 * DL Engineer in [Kandinksy Lab](https://kandinskylab.ai/) (November 2025 - Present)
-    - VLM captioning
+    - VLM finetuning
 * DL Engineer in [SBER](https://www.sberbank.ru/ru) (November 2024 - November 2025)
     - AI assistant, multi-agent system (LangChain, LangGraph)
 * DL Researcher in [SBER AI](https://ai.sber.ru/) (April 2024 - November 2024)
