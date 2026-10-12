@@ -2,7 +2,7 @@ DL Engineer at [Kandinsky Lab](https://kandinskylab.ai/) specializing in VLM fin
 
 **Field of interest:** Computer Vision, VLM, LLM, Multimodal AI, Sign Language Recognition
 
-Link to my [CV](https://drive.google.com/file/d/1AmxIgUiyBfm4nBTgGUDwZn_yIMjWm3VD/view?usp=sharing)
+Link to my [CV](https://drive.google.com/file/d/1EQdKbHjqCdLFShrF100-wQKkohesMp3I/view?usp=sharing)
 
 # Work experience:
 * DL Engineer at [Kandinsky Lab](https://kandinskylab.ai/) (October 2025 – Present)
